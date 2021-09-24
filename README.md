@@ -1,1 +1,1 @@
-# Travel-Insurance-Predictions Project
+# Travel Insurance Predictions Project
