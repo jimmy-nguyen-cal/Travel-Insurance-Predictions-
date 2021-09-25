@@ -71,7 +71,7 @@ Estimate the number of potential COVID travel insurance customers before decidin
 ## Presentations and Reports
 * [Final Report _(In Progress)_ ]
 * [Presentation Slides _(In Progress)_]
-* [Python Code]()
+* [Python Code](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Code/Python/Final%20Project%20-%20Travel%20Insurance%20Predictions%20Team%207.ipynb)
 
 
 ## Data Visualizations
