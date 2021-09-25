@@ -77,9 +77,6 @@ Estimate the number of potential COVID travel insurance customers before decidin
 ## Data Visualizations
 ![Age Groups](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Heart-Disease-Detection/blob/main/Data%20Visuals/Age%20Groups.png)
 
-![Age Groups vs e](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Heart-Disease-Detection/blob/main/Data%20Visuals/Age%20Groups%20vs%20Resting%20Blood%20Pressure.png)
-
-![Sex vs Heart Disease](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Heart-Disease-Detection/blob/main/Data%20Visuals/Sex%20vs.%20Heart%20Disease.png)
 
 
 ## Performance Results
