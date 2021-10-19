@@ -88,6 +88,7 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 
 
 ## Presentations and Reports
+* [Project Life Cycle]()
 * [Business Brief]()
 * [Presentation Slides]()
 * [Python Code](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Code/Python/Final%20Project%20-%20Travel%20Insurance%20Predictions%20Team%207.ipynb)
@@ -100,9 +101,17 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 
 ## Performance Results
 
+![Decision Tree Plot]()
+
+![Random Forest Features Importance]()
+
+![K-NN Search for Optimal K Graph]()
+
 ![Performance  Table]()
 
-![Gains Chart]()
+![Gains Chart (All Models)]()
+
+![Gains Chart (Ensemble Voting Classifier)]()
 
 
 ## Conclusion
@@ -116,7 +125,17 @@ It is suggested that after the first year of offering COVID insurance the actual
 
 ## References
 
-- _In Progress_
+Lock, S. (2021, June 2). Coronavirus: impact on the tourism industry 
+      worldwide - statistics & facts. Statista.
+      https://www.statista.com/topics/6224/covid-19-impact-on-the-tourism-industry/
+      
+
+Jainchill, J. (2012, June 4). Four agencies account for more than 75% of
+      market. Travel Weekly.https://www.travelweekly.com/Travel-News/Corporate-Travel/Four-agencies-account-for-more-than-75-of-market
+
+
+Weissmann, E. (2021, March 17). 65% of All U.S. Jobs Lost in 2020 Were 
+      From the Travel Industry. Travel Age West.https://www.travelagewest.com/In
 
 
 
