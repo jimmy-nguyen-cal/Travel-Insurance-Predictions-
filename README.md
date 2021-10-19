@@ -111,6 +111,7 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 ![Random Forest Features Importance](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Random_Forest_Feat_Import.png)
 
 - K-Nearest Neighbors Searching for the best K 
+-
 ![K-NN Search for Optimal K Graph](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/KNN.png)
 
 - All Models Performance Table
