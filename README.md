@@ -18,11 +18,11 @@
   * [Technologies](#technologies)
 - [Original Data](#original-data)
   * [Data Set Dictionary](#data-set-dictionary)
-  * [Presentations and Reports](#presentations-and-reports)
-  * [Data Visualizations](#data-visualizations)
-  * [Performance Results](#performance-results)
-  * [Conclusion](#conclusion)
-  * [References](#references)
+- [Presentations and Reports](#presentations-and-reports)
+- [Data Visualizations](#data-visualizations)
+- [Performance Results](#performance-results)
+- [Conclusion](#conclusion)
+- [References](#references)
 
 -------
 
@@ -128,20 +128,20 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 - TravelInsurance- Did The Customer Buy Travel Insurance Package During Introductory Offering Held In The Year 2019.
 
 
-## Presentations and Reports
+# Presentations and Reports
 * [Project Life Cycle](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Presentation/Data%20Science%20Life%20Cycle.pdf)
 * [Business Brief](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Business%20Brief/MADS_505_Project_Business_Brief.pdf)
 * [Presentation Slides](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Presentation/Final%20Project%20-%20Travel%20Insurance%20Predictions%20Team%207.pptm)
 * [Python Code](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Code/Python/Final%20Project%20-%20Travel%20Insurance%20Predictions%20Team%207.ipynb)
 
 
-## Data Visualizations
+# Data Visualizations
 ![Proportion of Travel Insurance Purchases by Age](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Proportions%20of%20Buyers%20by%20Age.png)
 ![Frequency of Travel Insurance Purchases](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Frequency%20of%20Travel%20Insurance%20Purchases.png)
 ![Percentage of Travel Insurance Purchases by Frequent Flyer vs Non Frequent Flyer](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Frequent_Flyer_stacked_bar_chart.png)
 
 
-## Performance Results
+# Performance Results
 
 - Decision Tree Plot 
  
@@ -170,7 +170,7 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 ![Ensemble Voting Classifier Performance Table](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Ensemble%20Voting%20Classifier.png)
 
 
-## Conclusion
+# Conclusion
 
 In an attempt to address the problem statement, A random sample of sales including 2000 individuals, was taken to create a model utilizing commonly available variables, including employment type, education, annual income, family size, health, and travel tendencies, such as travel frequency and international travel.  The models evaluated were Decision Tree (with pruning), Boosted Trees (AdaBoost), Bagging Trees (Random Forest), Logistic Regression with step-wise linear regression, Multi-layered Neural Network, K-Nearest Neighbors, Multinomial Naive Bayes, Linear Discriminant Analysis, and Ensemble Voting Classifier (Based on Top 3 models with the highest F1-Scores).  The best performing model, Ensemble Voting Classifier, was used to calculate the probability of an individual, based on the previously mentioned variables, purchasing COVID insurance.  Once the final model was trained, the agencies sales pipeline for the upcoming year was run through the model to predict the probability for each sale including COVID insurance.  Sales with a predicted probability greater than 50% were selected and the estimated sale amounts for each of these purchases was then totaled to get an estimated annual revenue for COVID insurance sales.   
 
@@ -179,7 +179,7 @@ The total revenue predicted by the model was ₹ 45,719.70.  The estimated annua
 It is suggested that after the first year of offering COVID insurance the actual sales figures be compared to the model results to determine if the model is predicting accurately.  If desired, the model can then be re-tuned to adjust for inaccuracies based on the new historical dataset.  This could be done annually if it is decided there is value in predicting COVID insurance sales after the initial phase.  Additionally, the agency could offer these prediction capabilities to other companies as a form of additional revenue or in exchange for other services.  These predictions could also be used to better tailor the services offered by the agency to their clients changing needs.
 
 
-## References
+# References
 
 Lock, S. (2021, June 2). Coronavirus: impact on the tourism industry 
       worldwide - statistics & facts. Statista.
