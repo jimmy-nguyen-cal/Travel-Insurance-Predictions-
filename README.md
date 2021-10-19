@@ -95,8 +95,8 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 
 
 ## Data Visualizations
+![Proportion of Travel Insurance Purchases by Age](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Proportions%20of%20Buyers%20by%20Age.png)
 ![Frequency of Travel Insurance Purchases](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Frequency%20of%20Travel%20Insurance%20Purchases.png)
-
 ![Percentage of Travel Insurance Purchases by Frequent Flyer vs Non Frequent Flyer](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Frequent_Flyer_stacked_bar_chart.png)
 
 
@@ -124,6 +124,8 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 - Ensemble Voting Classifier vs. Top 1 Model Gains Chart
 
 ![Gains Chart (Ensemble Voting Classifier)](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Ensemble%20Voting%20Classifier%20Gains%20Chart.png)
+
+![Ensemble Voting Classifier Performance Table](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Ensemble%20Voting%20Classifier.png)
 
 
 ## Conclusion
