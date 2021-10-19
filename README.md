@@ -88,30 +88,42 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 
 
 ## Presentations and Reports
-* [Project Life Cycle]()
-* [Business Brief]()
-* [Presentation Slides]()
+* [Project Life Cycle](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Presentation/Data%20Science%20Life%20Cycle.pdf)
+* [Business Brief](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Business%20Brief/MADS_505_Project_Business_Brief.pdf)
+* [Presentation Slides](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Presentation/Final%20Project%20-%20Travel%20Insurance%20Predictions%20Team%207.pptm)
 * [Python Code](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Code/Python/Final%20Project%20-%20Travel%20Insurance%20Predictions%20Team%207.ipynb)
 
 
 ## Data Visualizations
-![Age Groups](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Age_Histogram.png)
-![Proportions of Travel Insurance Buyers by Age](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Proportions%20of%20Buyers%20by%20Age.png)
+![Frequency of Travel Insurance Purchases](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Frequency%20of%20Travel%20Insurance%20Purchases.png)
+
+![Percentage of Travel Insurance Purchases by Frequent Flyer vs Non Frequent Flyer](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Frequent_Flyer_stacked_bar_chart.png)
 
 
 ## Performance Results
 
-![Decision Tree Plot]()
+- Decision Tree Plot 
+ 
+![Decision Tree Plot](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/decision_tree_plot.png)
 
-![Random Forest Features Importance]()
+- Random Forest Features Importance
 
-![K-NN Search for Optimal K Graph]()
+![Random Forest Features Importance](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Random_Forest_Feat_Import.png)
 
-![Performance  Table]()
+- K-Nearest Neighbors Searching for the best K 
+[K-NN Search for Optimal K Graph](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/KNN.png)
 
-![Gains Chart (All Models)]()
+- All Models Performance Table
 
-![Gains Chart (Ensemble Voting Classifier)]()
+![Performance  Table](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Performance%20Table.png)
+
+- All Models' Gains Chart
+
+![Gains Chart (All Models)](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/All%20Models%20Gains%20Chart.png)
+
+- Ensemble Voting Classifier vs. Top 1 Model Gains Chart
+
+![Gains Chart (Ensemble Voting Classifier)](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Ensemble%20Voting%20Classifier%20Gains%20Chart.png)
 
 
 ## Conclusion
