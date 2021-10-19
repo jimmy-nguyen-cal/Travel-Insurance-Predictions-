@@ -1,5 +1,31 @@
 # Travel Insurance Predictions Project
 
+# Table of Contents
+
+--------
+
+- [Collaborators](#collaborators)
+- [Installation](#installation)
+    + [Dependencies](#dependencies)
+- [About the Project](#about-the-project)
+  * [Short Description of Your Project and Objectives:](#short-description-of-your-project-and-objectives)
+  * [Background](#background)
+  * [Main Research Questions](#main-research-questions)
+- [Methodology](#methodology)
+- [Analytics Methods](#analytics-methods)
+  * [The following models are selected:](#the-following-models-are-selected)
+  * [Model Training and Evaluating Performance](#model-training-and-evaluating-performance)
+  * [Technologies](#technologies)
+- [Original Data](#original-data)
+  * [Data Set Dictionary](#data-set-dictionary)
+  * [Presentations and Reports](#presentations-and-reports)
+  * [Data Visualizations](#data-visualizations)
+  * [Performance Results](#performance-results)
+  * [Conclusion](#conclusion)
+  * [References](#references)
+
+-------
+
 # Collaborators
 - [Jimmy Nguyen](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio)
 - [Chris Robinson](https://github.com/ChrisRobinsonUSD)
@@ -16,7 +42,7 @@ To clone this repository onto your device, use the commands below:
 	2. git clone git@github.com:jimmy-nguyen-cal/Travel-Insurance-Predictions-.git
 
 
-### Dependencies:
+### Dependencies
 
 To download the required packages as a local environment, please do the following:
 
@@ -25,7 +51,7 @@ To download the required packages as a local environment, please do the followin
 
 # About the Project
 
-## Short Description of Your Project and Objectives:
+## Short Description of Your Project and Objectives
 
 A travel agency in India has engaged our group to devise a model for predicting sales of coronavirus (COVID) related travel insurance based on a set of commonly collected personal attributes.  The travel agency has seen greatly reduced sales during the pandemic and now that travel is resuming feels compelled to offer COVID related travel insurance in order to stay relevant in the post-pandemic marketplace.  The agency would like to analyze the risks associated with making any financial commitments at a time when revenues are low as any additional financial burden on the agency could be devastating.
 
@@ -59,7 +85,7 @@ Due to the current COVID situation it is important to be able to offer COVID ins
 - Therefore, the optimal performance metric that can answer the business question is precision, recall, or F1-Score. 
 - For simplicity, we focus on combining the two metrics and thus the best selection is the F1-score.
 
-## The following models are selected:
+## The following models are selected
 
 - Decision Tree (with pruning)
 - Boosted Trees (AdaBoost)
