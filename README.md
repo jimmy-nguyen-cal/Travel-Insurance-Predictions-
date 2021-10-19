@@ -1,12 +1,27 @@
 # Travel Insurance Predictions Project
 
-
-## Deadline: October 18, 2021
-
-## Collaborators
+# Collaborators
 - [Jimmy Nguyen](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio)
 - [Chris Robinson](https://github.com/ChrisRobinsonUSD)
 - [Nima Amin Taghavi](https://github.com/nimaamintaghavi/) 
+
+
+# Installation
+
+Data Exploration and Modeling was all done in [Jupyter Notebook](https://jupyter.org/).
+
+To clone this repository onto your device, use the commands below:
+
+	1. git init
+	2. git clone git@github.com:jimmy-nguyen-cal/Travel-Insurance-Predictions-.git
+
+
+### Dependencies:
+
+To download the required packages as a local environment, please do the following:
+
+ 	1. conda env create -f environment.yml
+
 
 # About the Project
 
