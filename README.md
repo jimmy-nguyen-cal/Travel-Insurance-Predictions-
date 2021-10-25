@@ -163,7 +163,7 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 
 ![Gains Chart (All Models)](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/All%20Models%20Gains%20Chart.png)
 
-- Ensemble Voting Classifier vs. Top 1 Model Gains Chart
+- Ensemble Voting Classifier (Top 2 Models: K-NN and Random Forest Model Combined)
 
 ![Gains Chart (Ensemble Voting Classifier)](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Data%20Visuals/Ensemble%20Voting%20Classifier%20Gains%20Chart.png)
 
