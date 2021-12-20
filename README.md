@@ -131,7 +131,7 @@ Lastly, we will find the top 2 models with the highest F1-scores to be used for 
 # Presentations and Reports
 * [Project Life Cycle](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Presentation/Data%20Science%20Life%20Cycle.pdf)
 * [Business Brief](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Business%20Brief/MADS_505_Project_Business_Brief.pdf)
-* [Presentation Slides](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Presentation/Final%20Project%20-%20Travel%20Insurance%20Predictions%20Team%207.pptm)
+* [Presentation Slides](https://github.com/jimmy-nguyen-data-science/Travel-Insurance-Predictions/blob/main/Presentation/PowerPoint_Business_Brief.pdf)
 * [Python Code](https://github.com/jimmy-nguyen-cal/Travel-Insurance-Predictions-/blob/main/Code/Python/Final%20Project%20-%20Travel%20Insurance%20Predictions%20Team%207.ipynb)
 
 
